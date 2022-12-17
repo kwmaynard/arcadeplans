@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 756 576" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.56,0,0,0.615385,0,0)">
+        <g id="PageSize">
+            <rect x="0" y="0" width="1350" height="936" style="fill:none;stroke:black;stroke-width:3.4px;"/>
+        </g>
+    </g>
+    <g id="Page3">
+        <g id="Speaker" transform="matrix(1.02054e-17,0.166667,-0.166667,1.02054e-17,401.052,-352.989)">
+            <rect id="LWPOLYLINE" x="2117.93" y="1056.31" width="1215" height="1350" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE1" serif:id="LWPOLYLINE" d="M2848.11,1492.81C2848.11,1485.35 2842.06,1479.31 2834.61,1479.31L2645.61,1479.31C2638.15,1479.31 2632.11,1485.35 2632.11,1492.81C2632.11,1500.27 2638.15,1506.31 2645.61,1506.31L2834.61,1506.31C2842.06,1506.31 2848.11,1500.27 2848.11,1492.81Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE2" serif:id="LWPOLYLINE" d="M2848.11,1177.81C2848.11,1170.35 2842.06,1164.31 2834.61,1164.31L2645.61,1164.31C2638.15,1164.31 2632.11,1170.35 2632.11,1177.81C2632.11,1185.27 2638.15,1191.31 2645.61,1191.31L2834.61,1191.31C2842.06,1191.31 2848.11,1185.27 2848.11,1177.81Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE3" serif:id="LWPOLYLINE" d="M2911.11,1429.81C2911.11,1422.35 2905.06,1416.31 2897.61,1416.31L2582.61,1416.31C2575.15,1416.31 2569.11,1422.35 2569.11,1429.81C2569.11,1437.27 2575.15,1443.31 2582.61,1443.31L2897.61,1443.31C2905.06,1443.31 2911.11,1437.27 2911.11,1429.81Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE4" serif:id="LWPOLYLINE" d="M2911.11,1240.81C2911.11,1233.35 2905.06,1227.31 2897.61,1227.31L2582.61,1227.31C2575.15,1227.31 2569.11,1233.35 2569.11,1240.81C2569.11,1248.27 2575.15,1254.31 2582.61,1254.31L2897.61,1254.31C2905.06,1254.31 2911.11,1248.27 2911.11,1240.81Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE5" serif:id="LWPOLYLINE" d="M2931.35,1366.81C2931.35,1359.35 2925.31,1353.31 2917.85,1353.31L2562.35,1353.31C2554.9,1353.31 2548.85,1359.35 2548.85,1366.81C2548.85,1374.27 2554.9,1380.31 2562.35,1380.31L2917.85,1380.31C2925.31,1380.31 2931.35,1374.27 2931.35,1366.81Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE6" serif:id="LWPOLYLINE" d="M2931.35,1303.81C2931.35,1296.35 2925.31,1290.31 2917.85,1290.31L2562.35,1290.31C2554.9,1290.31 2548.85,1296.35 2548.85,1303.81C2548.85,1311.27 2554.9,1317.31 2562.35,1317.31L2917.85,1317.31C2925.31,1317.31 2931.35,1311.27 2931.35,1303.81Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE7" serif:id="LWPOLYLINE" d="M2144.93,1974.27C2142.53,1974.27 2140.24,1975.23 2138.54,1976.92C2136.85,1978.62 2135.9,1980.91 2135.9,1983.31C2135.9,1988.3 2139.94,1992.35 2144.93,1992.35C2149.92,1992.35 2153.97,1988.3 2153.97,1983.31C2153.97,1978.32 2149.92,1974.27 2144.93,1974.27Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE8" serif:id="LWPOLYLINE" d="M2144.93,1465.77C2142.53,1465.77 2140.24,1466.73 2138.54,1468.42C2136.85,1470.12 2135.9,1472.41 2135.9,1474.81C2135.9,1477.21 2136.85,1479.51 2138.54,1481.2C2140.24,1482.89 2142.53,1483.85 2144.93,1483.85C2149.92,1483.85 2153.97,1479.8 2153.97,1474.81C2153.97,1469.82 2149.92,1465.77 2144.93,1465.77Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE9" serif:id="LWPOLYLINE" d="M3305.93,1974.27C3303.53,1974.27 3301.24,1975.23 3299.54,1976.92C3297.85,1978.62 3296.9,1980.91 3296.9,1983.31C3296.9,1988.3 3300.94,1992.35 3305.93,1992.35C3310.92,1992.35 3314.97,1988.3 3314.97,1983.31C3314.97,1978.32 3310.92,1974.27 3305.93,1974.27Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE10" serif:id="LWPOLYLINE" d="M3305.93,1465.77C3303.53,1465.77 3301.24,1466.73 3299.54,1468.42C3297.85,1470.12 3296.9,1472.41 3296.9,1474.81C3296.9,1477.21 3297.85,1479.51 3299.54,1481.2C3301.24,1482.89 3303.53,1483.85 3305.93,1483.85C3310.92,1483.85 3314.97,1479.8 3314.97,1474.81C3314.97,1469.82 3310.92,1465.77 3305.93,1465.77Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+        </g>
+        <g id="Base" transform="matrix(1.02054e-17,0.166667,-0.166667,1.02054e-17,331.943,-790.495)">
+            <g id="LWPOLYLINE11" serif:id="LWPOLYLINE" transform="matrix(6,0,0,6,-1845.03,-4848.34)">
+                <rect x="1098" y="676.5" width="204" height="229.5" style="fill:none;stroke:rgb(255,0,0);stroke-width:1px;stroke-miterlimit:2;"/>
+            </g>
+            <path id="LWPOLYLINE12" serif:id="LWPOLYLINE" d="M4841.97,493.16C4832.03,493.16 4823.97,501.219 4823.97,511.16C4823.97,521.101 4832.03,529.16 4841.97,529.16C4851.91,529.16 4859.97,521.101 4859.97,511.16C4859.97,501.219 4851.91,493.16 4841.97,493.16Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE13" serif:id="LWPOLYLINE" d="M4841.97,-726.34C4832.03,-726.34 4823.97,-718.281 4823.97,-708.34C4823.97,-698.399 4832.03,-690.34 4841.97,-690.34C4851.91,-690.34 4859.97,-698.399 4859.97,-708.34C4859.97,-718.281 4851.91,-726.34 4841.97,-726.34Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE14" serif:id="LWPOLYLINE" d="M5867.97,-726.34C5858.03,-726.34 5849.97,-718.281 5849.97,-708.34C5849.97,-698.399 5858.03,-690.34 5867.97,-690.34C5877.91,-690.34 5885.97,-698.399 5885.97,-708.34C5885.97,-718.281 5877.91,-726.34 5867.97,-726.34Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE15" serif:id="LWPOLYLINE" d="M5867.97,493.16C5858.03,493.16 5849.97,501.219 5849.97,511.16C5849.97,521.101 5858.03,529.16 5867.97,529.16C5877.91,529.16 5885.97,521.101 5885.97,511.16C5885.97,501.219 5877.91,493.16 5867.97,493.16Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE16" serif:id="LWPOLYLINE" d="M5053.47,425.66C5053.47,455.483 5077.65,479.66 5107.47,479.66L5602.47,479.66C5632.29,479.66 5656.47,455.483 5656.47,425.66L5656.47,407.66C5656.47,377.836 5632.29,353.66 5602.47,353.66L5107.47,353.66C5077.65,353.66 5053.47,377.836 5053.47,407.66L5053.47,425.66Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+        </g>
+        <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,-187.5,522)">
+            <g id="SpeakerWall">
+                <rect id="LWPOLYLINE17" serif:id="LWPOLYLINE" x="318" y="673.5" width="204" height="106.5" style="fill:none;stroke:rgb(255,0,0);stroke-width:1px;stroke-miterlimit:2;"/>
+            </g>
+        </g>
+        <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,1323,-858)">
+            <g id="KickPlate">
+                <rect id="LWPOLYLINE18" serif:id="LWPOLYLINE" x="858" y="589.5" width="204" height="121.5" style="fill:none;stroke:rgb(255,0,0);stroke-width:1px;stroke-miterlimit:2;"/>
+            </g>
+        </g>
+        <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,-157.5,1518)">
+            <g id="CoinBoxWall">
+                <rect id="LWPOLYLINE19" serif:id="LWPOLYLINE" x="1098" y="157.5" width="204" height="103.5" style="fill:none;stroke:rgb(255,0,0);stroke-width:1px;stroke-miterlimit:2;"/>
+            </g>
+        </g>
+        <g transform="matrix(5.94433e-17,-0.985391,1,6.21269e-17,-139.5,1501.96)">
+            <g id="CoinBoxTable">
+                <path id="LWPOLYLINE20" serif:id="LWPOLYLINE" d="M1098,265.5L1305,265.5L1305,403.5L1219.06,403.5L1219.07,403.405L1219.07,384.257C1219.07,380.943 1216.39,378.257 1213.07,378.257L1188.32,378.257C1185.01,378.257 1182.32,380.943 1182.32,384.257L1182.32,403.405L1182.33,403.5L1098,403.5L1098,265.5Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:1.01px;stroke-miterlimit:2;"/>
+            </g>
+        </g>
+        <g id="BaseFeet" transform="matrix(1.02054e-17,0.166667,-0.166667,1.02054e-17,385.943,-574.471)">
+            <g id="LWPOLYLINE21" serif:id="LWPOLYLINE" transform="matrix(3.67394e-16,-6,6,3.67394e-16,530.971,7094.66)">
+                <path d="M1117.46,873.012L1117.46,906L1084.5,906L1084.5,873.012L1117.46,873.012ZM1084.5,734.988L1084.5,702L1117.46,702L1117.46,734.988L1084.5,734.988Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:1px;stroke-miterlimit:2;"/>
+            </g>
+            <path id="LWPOLYLINE22" serif:id="LWPOLYLINE" d="M4841.97,493.16C4832.03,493.16 4823.97,501.219 4823.97,511.16C4823.97,521.101 4832.03,529.16 4841.97,529.16C4851.91,529.16 4859.97,521.101 4859.97,511.16C4859.97,501.219 4851.91,493.16 4841.97,493.16Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE23" serif:id="LWPOLYLINE" d="M5867.97,493.16C5858.03,493.16 5849.97,501.219 5849.97,511.16C5849.97,521.101 5858.03,529.16 5867.97,529.16C5877.91,529.16 5885.97,521.101 5885.97,511.16C5885.97,501.219 5877.91,493.16 5867.97,493.16Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+        </g>
+        <g id="BaseFeet1" serif:id="BaseFeet" transform="matrix(1.02054e-17,-0.166667,0.166667,1.02054e-17,277.015,1210.52)">
+            <g id="LWPOLYLINE24" serif:id="LWPOLYLINE" transform="matrix(3.67394e-16,-6,6,3.67394e-16,530.971,7094.66)">
+                <path d="M1117.46,873.012L1117.46,906L1084.5,906L1084.5,873.012L1117.46,873.012ZM1084.5,734.988L1084.5,702L1117.46,702L1117.46,734.988L1084.5,734.988Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:1px;stroke-miterlimit:2;"/>
+            </g>
+            <path id="LWPOLYLINE25" serif:id="LWPOLYLINE" d="M4841.97,493.16C4832.03,493.16 4823.97,501.219 4823.97,511.16C4823.97,521.101 4832.03,529.16 4841.97,529.16C4851.91,529.16 4859.97,521.101 4859.97,511.16C4859.97,501.219 4851.91,493.16 4841.97,493.16Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+            <path id="LWPOLYLINE26" serif:id="LWPOLYLINE" d="M5867.97,493.16C5858.03,493.16 5849.97,501.219 5849.97,511.16C5849.97,521.101 5858.03,529.16 5867.97,529.16C5877.91,529.16 5885.97,521.101 5885.97,511.16C5885.97,501.219 5877.91,493.16 5867.97,493.16Z" style="fill:none;stroke:rgb(255,0,0);stroke-width:6px;stroke-miterlimit:2;"/>
+        </g>
+    </g>
+</svg>
